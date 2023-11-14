@@ -1,16 +1,4 @@
-### Hi there 👋
-
-<!--
-**Ibish-DCI-STUDENT/Ibish-DCI-STUDENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<h1 align="center">Hi 👋, I'm Ibish Selmani</h1>
+<h1 align="center">Hi 👋, I'm Ibish Selmani</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibish-dci-student&label=Profile%20views&color=0e75b6&style=flat" alt="ibish-dci-student" /> </p>
@@ -41,7 +29,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibish-dci-student&show_icons=true&locale=en" alt="ibish-dci-student" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibish-dci-student&" alt="ibish-dci-student" /></p>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
